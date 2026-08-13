@@ -1,0 +1,8 @@
+{
+  "name": "zj-radar-grok",
+  "version": "0.1.0",
+  "description": "Broadcast Grok agent status to the zj-radar Zellij sidebar (working/waiting/done).",
+  "author": { "name": "Artem Vorotnikov" },
+  "homepage": "https://github.com/vorot93/zj-radar-grok",
+  "keywords": ["zj-radar", "zellij", "hooks", "status"]
+}
